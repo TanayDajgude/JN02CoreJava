@@ -1,1 +1,1 @@
-# JN02CoreJava
+# JN02 Core_Java
